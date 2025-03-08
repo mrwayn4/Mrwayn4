@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm IDDER BOURAM</h1>
 <h3 align="center">Software Engineer Student</h3>
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ibouram" alt="ibouram's 42 stats" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrwayn4&label=Profile%20views&color=0e75b6&style=flat" alt="mrwayn4" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
